@@ -1,0 +1,6 @@
+@Avesta.CryptoQuotes.Api_HostAddress = http://localhost:5188
+
+GET {{Avesta.CryptoQuotes.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
